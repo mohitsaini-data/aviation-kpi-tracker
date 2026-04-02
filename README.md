@@ -57,5 +57,5 @@ data including Air India and IndiGo flights across DEL, BOM, BLR
 and HYD airports.
 
 ## Tools & Technologies
-![SQL]
-![PowerBI]
+![SQL](https://img.shields.io/badge/SQL-SQLite-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
